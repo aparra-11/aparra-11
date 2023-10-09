@@ -1,4 +1,4 @@
-## Hello there! My name is André Parra and I am a frontend developer trainee
+## Hello there! My name is André Parra and I am a Computer Science student
 <div align="center">
   <a href="https://github.com/aparra-11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aparra-11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/
